@@ -17,7 +17,7 @@
    }
   ]"
  >
-<i :class="icon" style="position:absolute;color:white;font-size:15pt;padding:2px" :style="{'right': 'calc('+ width / 10 + 'px ' + '- 7.5pt)'}"></i>
+<i :class="icon" style="position:absolute;color:white;font-size:15pt;padding:2px" :style="{'right': 'calc('+ width / 10 + 'px ' + '- 7.5pt)' , 'color' : color}"></i>
   <slot></slot>
  </button>
 
