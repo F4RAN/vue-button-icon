@@ -1,0 +1,39 @@
+{
+    "private": false,
+    "name": "vue-button-icon",
+    "version": "1.0.7",
+    "description": "beautiful button includes fa icons",
+    "main": "./dist/index.js",
+    "files": [
+        "dist/*"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/faarawn/vue-button-icon.git"
+    },
+    "keywords": [
+        "vuejs",
+        "vue",
+        "vue-cli",
+        "button",
+        "icon-button",
+        "button-icon",
+        "animate",
+        "animation-button",
+        "vue-animate-button"
+    ],
+    "author": "Parsa Shariat",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/faarawn/vue-button-icon/issues"
+    },
+    "homepage": "https://github.com/faarawn/vue-button-icon#readme",
+    "devDependencies": {
+        "bili": "^4.9.0",
+        "rollup-plugin-vue": "^5.1.6",
+        "vue-template-compiler": "^2.6.11"
+    }
+}
