@@ -5,7 +5,7 @@ easy to use vue button with animations and icons
 ## vue-button-icon
 ### Install
 
-    npm install vue-js-modal --save
+    npm install vue-button-icon --save
 
 ## How to use
 
